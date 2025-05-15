@@ -17,7 +17,9 @@ A full-stack blogging platform built with **Spring Boot** (Java backend) and **S
 - **Build Tool**: Maven
 
 ## 🧪 Run Locally
-
+## live demo
+https://blogapi-dkfjfosbmwhgxhyawvsszm.streamlit.app/ 
+[note:backend is yet to go live on render , backend is deployed on sql on system]
 ### Backend (Spring Boot)
 ```bash
 cd blogapi
