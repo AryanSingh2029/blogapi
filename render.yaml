@@ -9,4 +9,3 @@ services:
         value: root
       - key: DB_PASS
         value: hFppMFyNpODvBCuVZJnFKKvhXUNJsAkS
-    rootDir: blogapi
