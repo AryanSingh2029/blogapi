@@ -3,7 +3,7 @@
 import streamlit as st
 import requests
 
-BASE_URL = "http://localhost:8080/api/posts"
+BASE_URL = "https://blog-backend-5auv.onrender.com/api/posts"
 
 st.set_page_config(page_title="Blog Manager", layout="wide")
 st.title("📘 Blogging Platform (Streamlit Frontend)")
