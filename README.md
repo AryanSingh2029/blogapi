@@ -1,9 +1,9 @@
-# 📝 Blogging Platform (Full Stack)
+  # 📝 Blogging Platform (Full Stack)
 - 🔗 **Frontend (Streamlit)**: [View App](https://blogapi-6pk9ubjphuc84adefappclh.streamlit.app/)
 A simple full-stack blogging platform built with:
 
 - 🌐 **Spring Boot** (Java) — RESTful backend
-- 🗃️ **MySQL** — Persistent database for blog posts
+- 🗃️ **MySQL** — Persistent database for blog posts by railway 
 - 🎨 **Streamlit** — Interactive frontend
 - 🚀 **Render** — Backend deployment
 - 📦 **Streamlit Cloud** — Frontend deployment
@@ -16,7 +16,7 @@ A simple full-stack blogging platform built with:
 - ➕ Create new posts
 - ✏️ Edit existing posts
 - 🗑️ Delete posts
-- 💾 Fully connected to MySQL via JPA
+- 💾 Fully connected to MySQL via railway 
 - ☁️ Deployed & live
 
 ---
